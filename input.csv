@@ -1,0 +1,56 @@
+How can we help?,Open IT Request,Get help with an IT Request that isn't described in IT Service Catalog. If you want to submit an incident related to interruption of an IT service provided to you by Ciklum or reduction in its quality (i.e. printer isn't printing or WiFi is unstable) - then please use Open IT Incident,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/320
+How can we help?,Open IT Incident,An incident is an unplanned interruption to an IT Service or reduction in the quality of an IT Service (i.e. laptop isn't working or WiFi connection is unstable).,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/321
+Jira & Confluence Support services,Create Jira project,Request a new project to be created in Jira,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/880
+Jira & Confluence Support services,Confluence space access,Request access to a Confluence space for yourself or others,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/882
+Jira & Confluence Support services,Jira project access,Request access to a Jira project for yourself or others,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/887
+Jira & Confluence Support services,Customize Jira issue type,Request changes to an issue type in a Jira project,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/878
+Jira & Confluence Support services,Create Jira project issue type,Request a new issue type to be created in a Jira project,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/879
+Jira & Confluence Support services,Create Confluence space,Request a new space to be created in Confluence,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/881
+Jira & Confluence Support services,Other,Use this request for any other Jira and Confluence support needs not listed above,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/883
+Audio/Video conferencing,Request Zoom Licensed account,Get premium account of Zoom,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/323
+Google Mail & Apps,Email\Drive\Calendar data transfer\forward,Transfer or forward of Email\Drive\Calendar data from one employee to another,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/324
+Google Mail & Apps,Create new mail group,Request new mail group for your work needs,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/325
+Google Mail & Apps,Add/Remove mail group members,Request adding or removal of users from the mail groups,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/326
+"Hardware, Devices & Printers",Donate Hardware,Request to donate hardware accoding to the external request,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/823
+"Hardware, Devices & Printers",Bring Your Own Device (BYOD),Request to set up a personal computer to work within Ciklum,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/819
+"Hardware, Devices & Printers",Laptop for a recruitment team,Request a laptop for a recruitment team,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/327
+"Hardware, Devices & Printers",Borrow hardware,Request borrow of IT accessories or workstation for your work needs,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/329
+"Hardware, Devices & Printers",Reassign hardware to another Ciklumer,Let us know if you decided to give some of your hardware to colleague,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/330
+"Hardware, Devices & Printers",Request hardware report of my team,Request to get report of hardware purchased for your team members,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/315
+"Hardware, Devices & Printers",Workstation replacement request,Request for workstation replacement,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/316
+Network Connectivity,Site-2-site VPN setup/change,Request setup or modification of site-2-site VPN connection with Client,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/333
+Resources & System Access,Access for an external user or service provider,Request access for people outside Ciklum who need to use Ciklum systems or services,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/884
+Resources & System Access,Request Biometric Access Control System settings/access change,Add/remove employees from access lists of your room's fingerprint,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/335
+Resources & System Access,Cloud resource provisioning,Request provision of Cloud resources,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/336
+Software & Business Applications,Request P2P functionality/modification,Request new functionality or modification of Procurement to Pay (P2P),https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/917
+Software & Business Applications,Candidate Profile Formatter (via Docmosis) support issue,Request a fix of functionality or modification of Candidate Profile Formatter in Docmosis system,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/863
+Software & Business Applications,Request BI functionality / report/ modification for CN Group,Request new functionality or modification of BI report for Ciklum WE users,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/827
+Software & Business Applications,Request HUB functionality modification,Request new functionality or modification of HUB system,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/339
+Software & Business Applications,Talmundo onboarding tool support issue,Request a fix in functionality or data modification,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/802
+Software & Business Applications,Request Posting Portal functionality modification,Request new functionality or modification of Posting Portal,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/799
+Software & Business Applications,Request ERM/MyCiklum functionality/report/modification,Request new functionality or modification of Posting Portal,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/634
+Software & Business Applications,DocuSign support issue,Request a fix of functionality or modification of DocuSign system,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/562
+Software & Business Applications,Sesame support issue,Request a fix of functionality or modification of Sesame system,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/535
+Software & Business Applications,Document.Online support issue,Request a fix of functionality or modification of Document.Online system,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/534
+Software & Business Applications,Request BI functionality/report/modification,"Request new functionality, modification or report of BI system",https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/340
+Software & Business Applications,Request Salesforce functionality/report/modification,"Request new functionality, modification or report of Salesforce system",https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/341
+Software & Business Applications,Request Navision functionality/report/modification,"Request new functionality, modification or report of Navision system",https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/317
+Software & Business Applications,Request Taleo functionality modification,Request new functionality or modification of Taleo system,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/344
+Software & Business Applications,Request software report of my team,Request to get report of software purchased for your team members,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/345
+Software & Business Applications,Scheduling tool support issue,Request a fix of functionality or modification in Scheduling tool system,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/895
+Internal IT Services,Vault statistics,Request for a vault statistics,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/897
+Internal IT Services,Request action with Active Directory group,"Requst to create / change / remove AD group, add / remove members inside of an AD group",https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/853
+Internal IT Services,Software image update,Request for a software image update,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/346
+Internal IT Services,Informational email to Ciklumers,Request an official email to be sent on behalf of the IT HelpDesk Team,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/347
+Internal IT Services,Request creation or update of IT Document,"Request creation of new IT Document (policy/procedure/user guide, etc.) or update of existing one",https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/348
+Internal IT Services,Control Delivery,Request help with hardware delivery,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/319
+DevOps services,Create GitLab Project,New GitLab Project or Repository,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/899
+DevOps services,GitLab CI/CD,GitLab CI/CD help,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/900
+DevOps services,GitLab Integration,Integrate with Jira Project,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/901
+DevOps services,Azure Sandbox,Create Sandbox for test,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/906
+DevOps services,Azure Account,Create or change Azure account for employee or client,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/905
+DevOps services,Azure Access Failure,Cannot access Azure environment,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/907
+DevOps services,AWS Sandbox,Create Sandbox for test,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/903
+DevOps services,AWS Account,Create or change account for employee or client,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/902
+DevOps services,AWS Access Failure,Cannot access AWS environment,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/904
+DevOps services,Question,General DevOps Question,https://jira.ciklum.net/plugins/servlet/desk/portal/20/create/916
